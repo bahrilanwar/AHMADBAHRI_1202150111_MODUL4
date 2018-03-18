@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AhmadBahri_1202150111_StudyCase4</string>
+    <string-array name="namaMhs">
+        <item>Intan</item>
+        <item>Gantira</item>
+        <item>Mira</item>
+        <item>Restu</item>
+        <item>Kuatno</item>
+        <item>Zaki</item>
+        <item>Gunawan</item>
+        <item>Aliya</item>
+        <item>Reni</item>
+        <item>Waskitod</item>
+        <item>Bahri</item>
+
+    </string-array>
+</resources>
